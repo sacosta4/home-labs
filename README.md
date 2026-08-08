@@ -8,8 +8,6 @@ Cybersecurity home lab projects: environment setup, attack simulation, and detec
 | [lab02_credential_access](lab02_credential_access/README.md) | Simulate & Detect | Attempted MITRE ATT&CK T1003.001 (LSASS credential dumping) with Atomic Red Team; Windows Defender blocked both attempts, so detection was built around Defender's own alert log instead. |
 | [lab03_powershell_lolbin](lab03_powershell_lolbin/README.md) | Simulate & Detect | Ran an obfuscated PowerShell command (T1059.001) with Atomic Red Team and found it in Script Block Logging, then narrowed a high-volume log down to a usable detection query. |
 
-New labs follow the template in [`_template/`](_template/README.md).
-
 ## Planned labs
 
 Each lab builds on the environment and skills from the previous one, escalating in complexity.
