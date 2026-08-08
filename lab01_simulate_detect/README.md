@@ -1,9 +1,9 @@
 # Lab 01 — Simulate & Detect: Local Privilege Escalation
 
-**Author:** Steven Acosta
-**Date:** August 2026
-**Category:** Simulate & Detect
-**MITRE ATT&CK technique:** T1136.001, Create Account: Local Account
+**Author:** Steven Acosta <br>
+**Date:** August 2026 <br>
+**Category:** Simulate & Detect <br>
+**MITRE ATT&CK technique:** T1136.001, Create Account: Local Account <br>
 **Stack:** Linux Mint, QEMU/KVM, Windows 11, Sysmon, Elastic Stack, Atomic Red Team
 
 ## Summary
