@@ -1,9 +1,9 @@
 # Lab 02 - Credential Access: LSASS Memory Dumping (Blocked by Defender)
 
-**Author:** Steven Acosta
-**Date:** August 2026
-**Category:** Simulate & Detect
-**MITRE ATT&CK technique:** T1003.001, OS Credential Dumping: LSASS Memory
+**Author:** Steven Acosta <br>
+**Date:** August 2026 <br>
+**Category:** Simulate & Detect <br>
+**MITRE ATT&CK technique:** T1003.001, OS Credential Dumping: LSASS Memory <br>
 **Stack:** Linux Mint, QEMU/KVM, Windows 11, Sysmon, Elastic Stack, Windows Defender, Atomic Red Team
 
 ## Summary
