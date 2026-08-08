@@ -7,8 +7,6 @@ Cybersecurity home lab projects: environment setup, attack simulation, and detec
 | [lab01_simulate_detect](lab01_simulate_detect/README.md) | Simulate & Detect | Built a Sysmon + Elastic Stack SIEM, simulated MITRE ATT&CK T1136.001 with Atomic Red Team, and built a detection query and dashboard for it. |
 | [lab02_credential_access](lab02_credential_access/README.md) | Simulate & Detect | Attempted MITRE ATT&CK T1003.001 (LSASS credential dumping) with Atomic Red Team; Windows Defender blocked both attempts, so detection was built around Defender's own alert log instead. |
 
-New labs follow the template in [`_template/`](_template/README.md).
-
 ## Planned labs
 
 Each lab builds on the environment and skills from the previous one, escalating in complexity.
